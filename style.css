@@ -1,8 +1,8 @@
 body{
     background-color: #e6ccff;
-}
+    font-family: 'Lucida Sans';
 h1{
-    color: #660033;
+    color: #660033; 
 }
 h2{
     color: #993366;   
