@@ -26,6 +26,7 @@ h3{
 }
 ul{
     color: #4d4d33;
+    text-align: left;
 }
 h3{
     color: #cc6699;
@@ -34,8 +35,9 @@ p{
     color: #4d4d33;
 }
 h3{
-    color: #cc6699
+    color: #cc6699;
 }
 ul{
-    color: #4d4d33
+    color: #4d4d33;
+    text-align: left;
 }
